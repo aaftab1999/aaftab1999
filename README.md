@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaftab1999
+- 👋 Hi, I’m Aftab Mandal
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning Web development
 - 📫 You can reach me via twitter @ @aftab__mandal 
