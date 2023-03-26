@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a web development project<br>👯 I’m looking to collaborate on a project to create a dynamic website<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Java<br>💬 Ask me about anything related to web development<br>
+🔭 I’m currently working on a web development project<br>👯 I’m looking to collaborate on a project to create a dynamic website<br>🤝 I’m looking for help with Java Project<br>🌱 I’m currently learning Java<br>
 
 
 ## 🌐 Socials:
