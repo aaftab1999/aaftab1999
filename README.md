@@ -1,4 +1,4 @@
-# 💫 About Me:💻👨‍💻 I’m currently working as a Full Stack Developer <br>🏚️ Living in Pune<br>
+# 💫 About Me:<br>💻👨‍💻 I’m currently working as a Full Stack Developer <br>🏚️ Living in Pune<br>
 
 
 
